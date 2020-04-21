@@ -1,9 +1,9 @@
 ## Open Source Logo
 
-I'm offerting free service of designing a logo for your Open Source project.
+I'm offering a free service of designing a logo for your Open Source project.
  
-Requirement is that it need to have some users (some downloads counts or github starts).
-Best if the project have website event it's just github pages one.
+Requirement is that it needs to have some users (some download counts or github stars).
+Best if the project has a website even if it's just a Github pages one.
 
 ## License
 
